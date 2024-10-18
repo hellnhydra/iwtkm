@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="{{ asset('css/styles.css') }}">
 <h1>Konferenciju Registracija</h1>
 <p>Vardas: Artiom</p>
 <p>Pavarde: Akimov</p>
