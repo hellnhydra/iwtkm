@@ -1,5 +1,4 @@
-<!-- resources/views/client/conferences/show.blade.php -->
-
+<link rel="stylesheet" href="{{ asset('css/styles.css') }}">
 <h1>{{ $conference['name'] }}</h1>
 
 <p><strong>Data:</strong> {{ $conference['date'] }}</p>
