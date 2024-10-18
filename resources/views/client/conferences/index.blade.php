@@ -1,5 +1,4 @@
-<!-- resources/views/client/conferences/index.blade.php -->
-
+<link rel="stylesheet" href="{{ asset('css/styles.css') }}">
 @if(session('success'))
     <p style="color: green;">{{ session('success') }}</p>
 @endif
