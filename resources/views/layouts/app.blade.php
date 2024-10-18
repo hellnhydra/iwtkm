@@ -1,5 +1,4 @@
-<!-- resources/views/layouts/app.blade.php -->
-
+<link rel="stylesheet" href="{{ asset('css/styles.css') }}">
 <!DOCTYPE html>
 <html lang="en">
 <head>
